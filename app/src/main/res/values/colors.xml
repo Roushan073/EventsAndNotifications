@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="content_text">#616161</color>
+    <color name="white">#fff</color>
+    <color name="schedule">#e91e63</color>
+    <color name="colorTitle">#ffffff</color>
+    <color name="selected_event_text_color">#0308a3</color>
+    <color name="cir_image_border_color">#168408</color>
+    <color name="dev_toolbar">#170f11</color>
+    <color name="back">#1b182e</color>
+    <color name="fill">#c6b6a8</color>
+    <color name="dev_statusbar_color">#aa170f11</color>
+    <color name="bgBackSideColor">#f4f0ff</color>
+    <color name="bgTitleLeft">#594691</color>
+    <color name="bgTitleRight">#ffffff</color>
+    <color name="bgContentTop">#594691</color>
+    <color name="bgContent">#ffffff</color>
+    <color name="contentDividerLine">#e0e0e0</color>
+    <color name="contentBadgeTitle">#a9a9a9</color>
+    <color name="titleBadgeTitle">#adafb1</color>
+    <color name="titleBadgeText">#adafb1</color>
+    <color name="mainTextColor">#343d43</color>
+    <color name="btnRequest">#ffbf12</color>
+</resources>

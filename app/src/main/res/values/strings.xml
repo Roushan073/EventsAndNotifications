@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Ojass 17</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="game_rules_content">Score displays the points that you have currently. These points can be earned in the on-field events during Ojass 17.\n\nYou can redeem these points for goodies on the last day of Ojass.\n\nHave fun fellas :)</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item">Events</string>
+
+    <string-array name="nav_item_activity_titles">
+        <item>Ojass 17</item>
+        <item>Events</item>
+        <item>Feed</item>
+        <item>Schedule</item>
+        <item>Maps</item>
+        <item>Core Team</item>
+        <item>Developers</item>
+        <item>Sponsers</item>
+    </string-array>
+    <string name="core_team_body">This is core team</string>
+    <string name="home_body">This is Home</string>
+    <string name="events_body">This is Events</string>
+    <string name="feed_body">This is Feed</string>
+    <string name="schedule_body">This is Schedule</string>
+    <string name="maps_body">This is Maps</string>
+    <string name="developer_body">This is Developer</string>
+    <string name="sponsers_body">This is Sponsers</string>
+</resources>
